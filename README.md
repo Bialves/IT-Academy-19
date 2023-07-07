@@ -8,5 +8,4 @@ O desafio consistiu na implementação de um sistema de gerenciamento de contas,
 - `Consultar extrato: exibe todas as transações da conta e a atualização do saldo conforme a movimentação`
 - `Mesclrar contas: une as transações e o saldo de uma conta remetente, em uma conta destinatária. Por fim, exclui a conta remetente`
 
-> ⚠️: Projeto incompleto ⚠️:
-> O mesmo não apresenta implementação de TODAS as funcionalidades solicitadas, mas sim, a maioria delas
+> ⚠️ Projeto incompleto ⚠️: O mesmo não apresenta implementação de TODAS as funcionalidades solicitadas, mas sim, a maioria delas
